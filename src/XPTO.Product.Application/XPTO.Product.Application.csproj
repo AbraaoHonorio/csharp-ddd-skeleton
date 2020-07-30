@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XPTO.Core\XPTO.Core.csproj" />
+    <ProjectReference Include="..\XPTO.Product.Domain\XPTO.Product.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

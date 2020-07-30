@@ -10,8 +10,9 @@ foo@bar:~$ dotnet run --project XPTO.API/XPTO.API.csproj
 
 ## Features
 
-- [ ~ ] Docker support - in progress - [@abraaohonorio](https://github.com/AbraaoHonorio/)
-- [ ~ ] improving webApi's response - in progress - [@abraaohonorio](https://github.com/AbraaoHonorio/)
+- [ X ] CQRS support - ✔️ Done - [@abraaohonorio](https://github.com/AbraaoHonorio/)
+- [ ~ ] Docker support - In progress - [@abraaohonorio](https://github.com/AbraaoHonorio/)
+- [ ~ ] improving webApi's response - In progress - [@abraaohonorio](https://github.com/AbraaoHonorio/)
 
 ### Have a question or suggestion?			
 
